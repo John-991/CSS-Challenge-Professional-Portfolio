@@ -39,21 +39,21 @@ The Professional Portfolio is a meticulously crafted website that serves as a sh
 Upload index.html, license.txt, and assets folder to the deployed webserver. The assets folder contains images and CSS files.
 
 The deployed website linked was deployed using GitHub Pages.
-[Link to the deployed website](https://john-991.github.io/horiseon-code-refactor/)
+[Link to the deployed website](https://john-991.github.io/CSS-Challenge-Professional-Portfolio/)
 
 ## Usage 
 
 It it optimized for smaller screens.
-[html link](starter/index.html)
+[html link](index.html)
 
 ### Desktop Version
-![Project Logo](starter/assets/images/screenshot.jpg)
+![Project Logo](starter/images/Desktop.png)
 
 ### Tablet Version
-![Project Logo](starter/assets/images/screenshot.jpg)
+![Project Logo](starter/images/Tablet.png)
 
 ### Mobile Version
-![Project Logo](starter/assets/images/screenshot.jpg)
+![Project Logo](starter/images/Mobile.png)
 
 
 ## Credits
