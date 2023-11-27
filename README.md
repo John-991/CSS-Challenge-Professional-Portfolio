@@ -50,10 +50,10 @@ It it optimized for smaller screens.
 <img src="starter/images/Desktop.png" width="550" height="500">
 
 ### Tablet Version
-<img src="starter/images/tablet.png" width="550" height="500">
+<img src="starter/images/Tablet.png" width="550" height="400">
 
 ### Mobile Version
-<img src="starter/images/Mobile.png" width="600" height="350">
+<img src="starter/images/Mobile.png" width="350" height="650">
 
 
 ## Credits
