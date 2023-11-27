@@ -48,9 +48,9 @@ It it optimized for smaller screens.
 
 ### Desktop Version
 ![Project Logo](starter/images/Desktop.png)
+![Project Logo](starter/images/newmobile.png)
 
 ### Tablet Version
-![Project Logo](starter/images/Tablet.png)
 
 ### Mobile Version
 ![Project Logo](starter/images/Mobile.png)
