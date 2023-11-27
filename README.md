@@ -50,7 +50,7 @@ It it optimized for smaller screens.
 ![Project Logo](starter/images/Desktop.png)
 
 ### Tablet Version
-![Project Logo](starter/images/Tablet.png)
+![Project Logo](starter/images/newmobile.png)
 
 ### Mobile Version
 ![Project Logo](starter/images/Mobile.png)
