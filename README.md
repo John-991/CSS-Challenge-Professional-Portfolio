@@ -53,7 +53,7 @@ It it optimized for smaller screens.
 <img src="starter/images/Tablet.png" width="300" height="550">
 
 ### Mobile Version
-<img src="starter/images/Mobile.png" width="200" height="750">
+<img src="starter/images/Mobile.png" width="250" height="750">
 
 
 ## Credits
