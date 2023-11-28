@@ -1,7 +1,7 @@
 # CSS-Challenge-Professional-Portfolio
 
 ## Description
-The Professional Portfolio is a meticulously crafted website that serves as a showcase of my skills and accomplishments. The primary goal was to implement advanced CSS techniques to ensure a polished, professional, and user-friendly interface.
+The Professional Portfolio is a meticulously crafted website that serves as a showcase of my skills. The primary goal was to implement advanced CSS techniques to ensure a polished, professional, and user-friendly interface.
 
 ## Distinctive webpage Features:
 
