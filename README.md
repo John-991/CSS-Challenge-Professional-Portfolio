@@ -47,13 +47,13 @@ It it optimized for smaller screens.
 [html link](index.html)
 
 ### Desktop Version
-<img src="starter/images/Desktop.png" width="550" height="450">
+<img src="starter/images/Desktop.png" width="600" height="450">
 
 ### Tablet Version
-<img src="starter/images/Tablet.png" width="300" height="550">
+<img src="starter/images/Tablet.png" width="300" height="600">
 
 ### Mobile Version
-<img src="starter/images/Mobile.png" width="200" height="700">
+<img src="starter/images/Mobile.png" width="200" height="750">
 
 
 ## Credits
