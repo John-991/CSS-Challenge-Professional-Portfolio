@@ -47,7 +47,7 @@ It it optimized for smaller screens.
 [html link](index.html)
 
 ### Desktop Version
-<img src="starter/images/Desktop.png" width="550" height="450">
+<img src="starter/images/Desktop.png" width="600" height="500">
 
 ### Tablet Version
 <img src="starter/images/Tablet.png" width="300" height="550">
