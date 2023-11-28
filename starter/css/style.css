@@ -130,11 +130,11 @@ h2 img {
   grid-template-columns: 1fr 1fr; 
   gap: 2rem;
   width: 100%;
-  height: 55rem;
 }
 
 
 #calculator-image {
+  height: 22rem;
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-image: url(../images/Portfolio-5.jpg);
@@ -142,6 +142,7 @@ h2 img {
 }
 
 #Fitness-image{
+  height: 15rem;
   background-image: url(../images/Portfolio-2.jpg);
 }
 
@@ -150,6 +151,7 @@ h2 img {
 }
 
 #guide-image{
+  height: 15rem;
   background-image: url(../images/Portfolio-4.jpg);
 }
 
@@ -252,5 +254,10 @@ footer div {
   aside a  {
    height: 100%;
   }
+
+  #calculator-image,#Portfolio-image,#Code-refactor{
+    height: 15rem;
+  }
+  
 }
 
